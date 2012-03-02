@@ -1,0 +1,9 @@
+README file for mod_log_rotate
+==============================
+
+mod_log_rotate is Apache 2.x module.
+Adds RotateLogs and supporting directives that allow logs to be rotated by
+the server without having to pipe them through rotatelogs.
+
+Original URL is
+http://www.hexten.net/sw/mod_log_rotate/index.mhtml
